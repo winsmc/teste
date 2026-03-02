@@ -1,0 +1,32 @@
+{
+  "version": "1.0",
+  "lastUpdate": "2026-03-02",
+  "servers": [
+    {
+      "id": "winsmc",
+      "name": "WinsMC",
+      "status": "online",
+      "type": "minecraft",
+      "category": "network",
+
+      "ips": [
+        "winsmc.com.br",
+        "jogar.winsmc.com.br"
+      ],
+
+      "versions": [
+        "1.8",
+        "1.21"
+      ],
+
+      "links": {
+        "discord": "https://discord.gg/AvXfbHtfTB"
+      },
+
+      "media": {
+        "logo": "https://media.discordapp.net/attachments/1472466930668408895/1478147998461464657/logo.png?ex=69a75819&is=69a60699&hm=48b2ecad87c68354157d5a2276396eee7495c7d9df7287f4ea05fcf7aff91b5f&=&format=webp&quality=lossless&width=674&height=674",
+        "banner": "https://media.discordapp.net/attachments/1472466930668408895/1477348156063879189/2026-02-28_13.47.19.png?ex=69a71230&is=69a5c0b0&hm=72627fc5968ec01d37607f227f4f6c33c87465a05cf0d7a53a732312d41aa351&=&format=webp&quality=lossless&width=1025&height=529"
+      }
+    }
+  ]
+}
